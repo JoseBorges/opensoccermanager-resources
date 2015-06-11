@@ -40,7 +40,7 @@ cursor.execute("CREATE TABLE IF NOT EXISTS merchandise (name TEXT, cost INTEGER,
 
 cursor.execute("CREATE TABLE IF NOT EXISTS catering (name TEXT, cost INTEGER, multiplier INTEGER)")
 
-cursor.execute("CREATE TABLE IF NOT EXISTS referee (id INTEGER PRIMARY KEY AUTOINCREMENT, year INTEGER NOT NULL, name)")
+cursor.execute("CREATE TABLE IF NOT EXISTS referee (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, league INTEGER, year INTEGER NOT NULL, FOREIGN KEY(year) REFERENCES year(year), FOREIGN KEY(league) REFERENCES league(id))")
 
 
 # Staff
@@ -261,7 +261,7 @@ for item in data:
     line = item.split(",")
 
     if line != [""]:
-        cursor.execute("INSERT INTO referee VALUES (null, ?, ?)", (line))
+        cursor.execute("INSERT INTO referee VALUES (null, ?, ?, ?)", (line))
 
 connection.commit()
 connection.close()
