@@ -1,0 +1,444 @@
+First Name,Second Name,Common Name,Date of Birth,Nationality,Club,Position,GK,TK,PS,SH,HD,PC,ST,BC,SP,Training
+Mattia,De Sciglio,,1992-10-20,Italy,AC Milan,DR,17,85,43,30,77,90,86,62,48,9
+Sulley,Muntari,,1984-08-27,Ghana,AC Milan,MC,18,52,87,31,75,86,73,86,62,3
+Michael,Agazzi,,1984-07-03,Italy,AC Milan,GK,82,49,42,32,45,53,57,46,34,4
+Nigel,De Jong,,1984-11-30,The Netherlands,AC Milan,MC,20,65,90,33,87,80,92,68,49,4
+Cristian,Zaccardo,,1981-12-21,Italy,AC Milan,DC,18,84,37,34,85,80,83,61,47,2
+Christian,Abbiati,,1977-07-08,Italy,AC Milan,GK,88,47,41,34,47,53,56,46,33,1
+Diego,López Rodríguez,Diego López,1981-11-03,Spain,AC Milan,GK,91,48,41,34,48,55,57,46,35,1
+Cristián Eduardo,Zapata Valencia,Cristián Zapata,1986-09-30,Colombia,AC Milan,DC,18,84,37,35,88,88,82,58,47,6
+Gabriel,Paletta,,1986-02-15,Italy,AC Milan,DC,17,85,38,35,92,79,82,58,49,5
+Philippe,Mexès,,1982-03-30,France,AC Milan,DC,19,87,40,35,85,82,80,59,48,2
+Alex Rodrigo,Dias da Costa,Alex,1982-06-17,Brazil,AC Milan,DC,19,91,43,35,90,90,83,63,53,3
+Luca,Antonelli,,1985-02-11,Italy,AC Milan,DL,18,84,47,35,73,83,90,65,47,6
+Ignazio,Abate,,1986-11-12,Italy,AC Milan,DR,18,84,39,36,72,83,90,57,50,6
+Daniele,Bonera,,1981-05-31,Italy,AC Milan,D,18,88,38,37,88,80,82,60,50,2
+Keisuke,Honda,,1986-06-13,Japan,AC Milan,M,18,31,87,40,65,82,95,79,58,5
+Andrea,Poli,,1989-09-29,Italy,AC Milan,MC,17,34,85,44,72,82,87,81,68,7
+Hachim,Mastour,,1998-06-15,Italy,AC Milan,MC,15,33,80,47,63,88,79,80,62,10
+Giacomo,Bonaventura,,1989-08-22,Italy,AC Milan,MC,17,35,86,47,70,84,80,88,79,7
+Riccardo,Montolivo,,1985-01-18,Italy,AC Milan,M,19,47,90,47,78,84,86,86,78,5
+Stephan,El Shaarawy,,1992-10-27,Italy,AC Milan,M,16,32,87,48,68,85,80,90,67,8
+Michael,Essien,,1982-12-03,Ghana,AC Milan,MC,20,66,92,48,80,84,91,83,53,2
+Jesús Joaquín,Fernández Sáenz de la Torre,Suso,1993-11-19,Spain,AC Milan,M,17,32,87,55,69,85,84,82,81,9
+Jérémy,Ménez,,1987-05-07,France,AC Milan,AF,18,33,45,89,80,92,85,80,65,6
+Marco,Sportiello,,1992-05-10,Italy,Atalanta,GK,86,46,39,30,47,59,55,46,37,9
+Lionel,Scaloni,,1978-05-16,Argentina,Atalanta,DR,18,85,44,31,82,82,87,68,48,1
+Alberto,Grassi,,1995-03-07,Italy,Atalanta,MC,15,42,75,31,68,83,88,81,58,10
+Giorgio,Frezzolini,,1976-01-21,Italy,Atalanta,GK,80,46,38,32,48,48,53,44,32,1
+Giuseppe,Biava,,1977-05-08,Italy,Atalanta,DC,18,83,36,35,93,73,80,58,49,1
+Davide,Zappacosta,,1992-06-11,Italy,Atalanta,DR,16,83,48,36,79,84,90,60,51,9
+Marco,D'Alessandro,,1991-02-17,Italy,Atalanta,M,17,31,82,38,63,83,80,84,82,8
+Daniele,Baselli,,1992-03-12,Italy,Atalanta,MC,16,34,80,42,73,80,86,80,68,8
+Gianpaolo,Bellini,,1980-03-27,Italy,Atalanta,D,17,79,37,36,80,78,81,57,48,2
+Cristian,Raimondi,,1981-04-30,Italy,Atalanta,MR,17,49,78,31,76,82,88,59,52,2
+Guglielmo,Stendardo,,1981-05-06,Italy,Atalanta,DC,17,81,38,34,80,75,78,57,50,2
+Guilio,Migliaccio,,1981-06-23,Italy,Atalanta,MC,18,52,79,30,88,74,89,53,46,2
+Germán,Denis,,1981-09-10,Argentina,Atalanta,AS,17,32,43,83,68,82,76,69,48,2
+Cristiano,Del Grosso,,1983-03-24,Italy,Atalanta,DL,17,80,42,31,78,83,83,58,52,3
+Boukary,Dramé,,1985-07-22,Senegal,Atalanta,DL,18,84,50,34,90,90,85,62,45,5
+Andrea,Masiello,,1986-02-05,Italy,Atalanta,DR,18,81,38,36,88,78,93,58,46,5
+Urby,Emanuelson,,1986-06-16,The Netherlands,Atalanta,ML,18,48,82,40,67,94,89,81,65,5
+Luca,Cigarini,,1986-06-20,Italy,Atalanta,MC,19,55,85,40,80,82,87,78,58,6
+Carlos,Carmona,,1987-02-21,Chile,Atalanta,MC,17,47,81,38,74,87,84,78,74,6
+Maximiliano Nicolás,Moralez,Maxi Moralez,1987-02-27,Argentina,Atalanta,MC,18,33,86,52,76,83,80,85,80,6
+Yohan,Benalouane,,1987-03-28,Tunisia,Atalanta,DC,18,83,38,38,88,79,85,60,47,6
+Marcelo,Estigarribia,,1987-09-21,Paraguay,Atalanta,ML,17,31,82,49,70,80,83,80,68,6
+Alejandro,Gómez,,1988-02-15,Argentina,Atalanta,M,17,33,86,48,73,84,80,83,79,8
+Nicolò,Barella,,1997-02-07,Italy,Cagliari,MC,15,39,73,30,70,82,83,74,48,10
+Godfred,Donsah,,1996-06-07,Ghana,Cagliari,MC,16,48,82,30,83,91,89,64,47,10
+Antonio,Balzano,,1986-06-13,Italy,Cagliari,DR,17,82,46,31,83,79,88,57,49,6
+Werther,Carboni,,1996-04-04,Italy,Cagliari,GK,78,46,38,35,49,59,52,44,32,10
+Marco,Capuano,,1991-10-14,Italy,Cagliari,DC,16,82,37,35,80,79,82,55,46,8
+Nicola,Murru,,1994-12-16,Italy,Cagliari,D,16,79,37,36,82,82,80,55,46,10
+Alessio,Cragno,,1994-06-28,Italy,Cagliari,GK,82,47,41,36,44,55,60,49,40,10
+Mattia,Muroni,,1996-04-06,Italy,Cagliari,MC,15,31,73,36,57,80,87,73,50,9
+Caio,Rangel da Silva,Caio Rangel,1996-01-16,Brazil,Cagliari,MR,16,31,79,40,66,93,80,75,48,10
+João Pedro Geraldino,dos Santos Galvão,João Pedro,1992-03-09,Brazil,Cagliari,MC,17,30,85,53,70,84,84,85,80,8
+Luca,Rossettini,,1985-05-09,Italy,Cagliari,DC,18,82,37,36,85,76,79,59,48,5
+Francesco,Pisano,,1986-04-29,Italy,Cagliari,DR,17,80,39,34,78,85,80,64,47,6
+Daniele,Dessena,,1987-05-10,Italy,Cagliari,MC,18,56,80,31,84,79,93,80,49,7
+Marco,Sau,,1987-11-03,Italy,Cagliari,AF,18,32,52,86,80,83,82,77,75,7
+Danilo Fernando,Avelar,Danilo Avelar,1989-06-09,Brazil,Cagliari,DL,17,83,50,38,78,84,88,62,48,7
+Albin,Ekdal,,1989-07-28,Sweden,Cagliari,MC,17,31,84,56,71,84,82,79,70,7
+Luca,Ceppitelli,,1989-08-11,Italy,Cagliari,DC,18,82,40,35,78,79,84,59,48,7
+Simone,Colombi,,1991-07-01,Italy,Cagliari,GK,77,48,40,36,46,50,54,44,31,8
+Alberto,Iglio,,1996-04-20,Italy,Cesena,GK,74,43,35,29,43,56,58,44,32,10
+Luka,Krajnc,,1994-09-19,Slovenia,Cesena,DC,15,80,38,34,78,83,91,56,49,10
+Luca,Valzania,,1996-03-05,Italy,Cesena,MC,16,39,73,42,68,82,88,70,48,9
+José Eduardo,de Araújo,Zé Eduardo,1991-08-16,Brazil,Cesena,MC,17,30,82,52,72,90,79,85,73,9
+Alejandro,Rodríguez de Miguel,Alejandro Rodríguez,1991-07-30,Spain,Cesena,AF,17,32,38,80,73,80,78,76,58,7
+Franco,Brienza,,1979-03-19,Italy,Cesena,AF,16,34,37,84,68,75,74,82,49,1
+Stefano,Lucchini,,1980-10-02,Italy,Cesena,DC,18,79,35,34,84,76,78,56,47,2
+Walter,Bressan,,1981-01-26,Italy,Cesena,GK,74,46,39,34,48,49,43,40,33,2
+Gabriel,Mudingayi,Gaby Mudingayi,1981-10-01,Belgium,Cesena,MC,18,58,83,35,88,93,80,65,48,2
+Davide,Succi,,1981-10-11,Italy,Cesena,AS,17,35,38,76,72,83,80,69,47,2
+Federico,Agliardi,,1983-02-11,Italy,Cesena,GK,82,45,38,34,49,54,52,46,33,3
+Giuseppe,De Feudis,,1983-07-10,Italy,Cesena,MC,17,48,83,32,73,80,78,70,47,4
+Emmanuel,Cascoine,,1983-09-22,Italy,Cesena,MC,18,48,82,51,79,82,77,73,50,5
+Gabriele,Perico,,1984-03-11,Italy,Cesena,DR,17,83,43,32,80,85,83,66,46,5
+Francesco,Renzetti,,1988-01-22,Italy,Cesena,DL,18,84,45,33,84,78,85,64,49,7
+Andrea,Tabanelli,,1990-02-02,Italy,Cesena,MC,17,30,76,42,69,80,82,79,58,8
+Milan,Đurić,,1990-05-22,Bosnia,Cesena,AS,16,33,36,77,70,82,80,72,67,8
+Grégoire,Defrel,,1991-06-17,France,Cesena,AF,16,31,48,80,68,92,82,78,63,10
+Albano,Bizzarri,,1977-11-09,Argentina,Chievo,GK,84,48,40,35,49,53,55,46,34,1
+Armando,Vajushi,,1991-12-03,Albania,Chievo,M,15,31,79,45,68,85,80,83,76,9
+Nicola,Bellomo,,1991-02-18,Italy,Chievo,MC,16,32,81,46,72,83,82,82,67,9
+Gennaro,Sardo,,1979-05-08,Italy,Chievo,DR,17,77,38,32,76,86,77,58,47,1
+Dario,Dainelli,,1979-06-09,Italy,Chievo,DC,18,80,37,35,83,79,77,58,46,1
+Christian,Puggioni,,1981-01-17,Italy,Chievo,GK,75,47,38,35,47,56,49,46,34,2
+Alessandro,Gamberini,,1981-08-27,Italy,Chievo,DC,17,79,36,36,88,79,79,60,49,2
+Boštjan,Cesar,,1982-07-09,Slovenia,Chievo,DC,16,78,35,31,88,77,81,59,50,3
+Mariano,Izco,,1983-03-13,Argentina,Chievo,MC,17,48,83,35,72,80,88,70,49,4
+Alessio,Sestu,,1983-09-29,Italy,Chievo,MR,19,35,84,48,69,80,85,89,83,4
+Nicolas,Frey,,1984-03-06,France,Chievo,DR,17,80,47,34,77,78,92,58,46,5
+Simone,Bentivoglio,,1985-05-29,Italy,Chievo,MC,17,30,75,46,73,84,78,77,56,5
+Riccardo,Meggiorini,,1985-09-04,Italy,Chievo,AF,18,32,39,78,80,76,86,69,48,5
+Edimar,Curitiba Fraga,Edimar,1986-05-21,Brazil,Chievo,DL,17,80,39,36,74,80,78,64,49,6
+Nicola,Pozzi,,1986-08-30,Italy,Chievo,AS,16,32,36,75,78,75,82,68,53,6
+Përparim,Hetemaj,,1986-12-12,Finland,Chievo,MC,17,34,77,49,77,82,76,64,49,6
+Thomas,Mangani,,1987-04-29,France,Chievo,MC,18,54,79,35,80,83,77,66,48,7
+Ivan,Radovanović,,1988-08-29,Serbia,Chievo,MC,17,55,80,36,82,76,89,74,57,7
+Tomasz,Kupisz,,1990-01-02,Poland,Chievo,M,18,34,82,40,74,84,90,84,78,9
+Alberto,Paloschi,,1990-01-04,Italy,Chievo,AS,19,32,38,84,75,82,89,70,48,8
+Dejan,Lazarević,,1990-02-15,Slovenia,Chievo,ML,17,31,81,43,70,87,78,75,75,8
+Anders,Christiansen,,1990-06-08,Denmark,Chievo,MC,18,46,79,47,77,83,80,78,64,7
+Sergio,Pellissier,,1979-04-12,Italy,Chievo,AS,18,33,40,83,82,74,84,67,53,1
+Andrea,Seculin,,1990-07-14,Italy,Chievo,GK,76,47,40,36,46,52,53,44,32,7
+Alessandro,Sbaffo,,1990-08-02,Italy,Chievo,MC,17,30,78,39,68,83,78,84,77,8
+Mário Rui,Silva Duarte,Mário Rui,1991-05-27,Portugal,Empoli,DL,17,85,46,31,64,82,83,62,50,8
+Elseid,Hysaj,,1994-02-20,Albania,Empoli,DR,16,84,37,33,68,82,88,58,47,9
+Maurizio,Pugliesi,,1976-12-27,Italy,Empoli,GK,79,47,38,34,46,49,57,45,32,1
+Federico,Barba,,1993-09-01,Italy,Empoli,DC,16,80,37,35,78,86,80,56,45,9
+Ludovico,Gargiulo,,1995-03-23,Italy,Empoli,MC,16,32,72,37,58,82,80,75,49,10
+Manuel,Pucciarelli,,1991-06-17,Italy,Empoli,AF,16,30,85,57,66,83,82,88,80,9
+Massimo,Maccarone,,1979-09-06,Italy,Empoli,AS,18,32,38,85,88,78,80,71,52,1
+Francesco,Tavano,,1979-03-02,Italy,Empoli,AS,17,30,40,80,74,82,78,70,52,1
+Daniele,Croce,,1982-09-09,Italy,Empoli,MC,17,37,78,34,75,80,80,73,68,3
+Davide,Bassi,,1985-04-12,Italy,Empoli,GK,80,48,42,35,46,53,50,46,34,4
+Tiberio,Guarente,,1985-11-01,Italy,Empoli,MC,17,49,79,32,74,80,91,68,65,6
+Mirko,Valdifiori,,1986-04-21,Italy,Empoli,MC,18,57,82,34,70,83,83,85,77,6
+Luca,Martinelli,,1988-12-20,Italy,Empoli,D,17,78,35,35,72,80,84,56,47,7
+Vincent,Laurini,,1989-06-10,France,Empoli,DR,17,81,37,36,74,85,79,58,50,7
+Lorenzo,Tonelli,,1990-01-17,Italy,Empoli,DC,16,84,38,37,86,82,87,63,50,8
+Levan,Mchedlidze,,1990-03-24,Georgia,Empoli,AS,16,31,33,78,72,80,85,68,47,8
+Franco,Signorelli,,1991-01-01,Venezuela,Empoli,MC,16,55,80,34,70,82,80,84,78,8
+Cristiano,Lupatelli,,1978-06-21,Italy,Fiorentina,GK,88,47,39,30,48,52,50,47,33,1
+Antonio,Rosati,,1983-06-26,Italy,Fiorentina,GK,80,47,39,30,47,53,54,46,38,2
+Stefan,Savić,,1991-01-08,Montenegro,Fiorentina,DC,17,86,42,30,83,84,88,62,48,8
+Nenad,Tomović,,1987-08-30,Serbia,Fiorentina,D,18,83,39,31,87,80,88,57,48,6
+Norberto,Murara Neto,Neto,1989-07-19,Brazil,Fiorentina,GK,89,48,42,31,47,52,55,46,34,7
+Marcos,Alonso Mendoza,Marcos Alonso,1990-12-28,Spain,Fiorentina,DL,18,85,43,31,84,84,87,60,52,7
+José María,Basanta Pavone,José María Basanta,1984-04-03,Argentina,Fiorentina,DC,17,85,38,32,86,79,82,55,48,4
+Gonzalo Javier,Rodríguez Prado,Gonzalo Rodríguez,1984-04-10,Argentina,Fiorentina,DC,18,86,39,32,90,79,84,58,46,3
+Manuel,Pasqual,,1982-03-13,Italy,Fiorentina,DL,18,85,40,32,83,80,82,57,47,3
+Milan,Badelj,,1989-02-25,Croatia,Fiorentina,MC,18,59,84,32,87,80,84,71,50,7
+Ciprian,Tătărușanu,,1986-02-09,Romania,Fiorentina,GK,84,48,40,35,48,50,51,46,35,6
+David,Pizarro,,1979-09-11,Chile,Fiorentina,MC,19,58,90,37,87,82,90,84,80,2
+Federico,Bernardeschi,,1994-02-16,Italy,Fiorentina,M,16,30,82,44,66,83,82,85,80,9
+Alberto,Aquilani,,1984-07-07,Italy,Fiorentina,MC,19,55,88,48,68,79,85,84,67,4
+Borja,Valero Iglesias,Borja Valero,1985-01-12,Spain,Fiorentina,MC,20,61,88,49,85,78,89,80,70,4
+Juan Manuel,Vargas,,1983-10-05,Peru,Fiorentina,ML,18,47,87,53,69,90,86,89,83,4
+Juan Guillermo,Cuadrado Bello,Juan Cuadrado,1988-05-26,Colombia,Fiorentina,M,19,32,91,53,76,93,88,90,73,7
+Andrea,Lazzari,,1984-12-03,Italy,Fiorentina,MC,18,30,84,57,76,82,83,84,80,5
+Josip,Iličić,,1988-01-29,Slovenia,Fiorentina,MC,18,32,84,59,68,82,83,82,79,6
+Joaquín,Sánchez Rodríguez,Joaquín,1981-07-21,Spain,Fiorentina,MR,18,37,88,62,75,89,80,92,76,3
+Matías Ariel,Fernández Fernández,Matí Fernández,1986-05-15,Chile,Fiorentina,MC,18,32,85,64,75,87,82,84,76,6
+Khouma El Hadji,Babacar,Khouma Babacar,1993-03-17,Senegal,Fiorentina,AF,17,31,55,82,74,92,86,82,58,8
+Mounir,El Hamdaoui,,1984-07-14,Morocco,Fiorentina,AF,17,31,43,84,82,86,80,81,69,5
+Giuseppe,Rossi,,1987-02-01,Italy,Fiorentina,AS,18,34,57,87,83,87,82,82,78,6
+Mario,Gómez García,Mario Gómez,1985-07-10,Germany,Fiorentina,AS,20,32,38,91,92,75,84,78,56,3
+Mario,Sampirisi,,1992-10-31,Italy,Genoa,DR,15,78,43,30,67,83,86,59,50,9
+Mattia,Perin,,1992-11-10,Italy,Genoa,GK,82,47,42,31,49,59,50,46,35,9
+Luca,Antonini,,1982-08-04,Italy,Genoa,DL,17,84,37,33,61,80,92,58,47,3
+Giovanni,Marchese,,1984-10-17,Italy,Genoa,DC,17,85,36,33,85,77,82,57,50,5
+Eugenio,Lamanna,,1989-08-07,Italy,Genoa,GK,84,47,40,33,46,57,52,48,32,7
+Tomás Eduardo,Rincón Hernández,Tomás Rincón,1988-01-13,Venezuela,Genoa,MC,17,49,83,34,70,85,83,82,77,7
+Alassane,També,,1992-01-26,France,Genoa,DR,16,79,39,35,73,94,85,58,47,9
+Nicolás Andrés,Burdisso,Nicolás Burdisso,1981-04-12,Argentina,Genoa,DC,19,86,41,35,90,78,83,61,50,2
+Sebastian,De Maio,,1987-05-03,Italy,Genoa,DC,18,84,37,35,94,78,82,58,49,6
+Armando,Izzo,,1992-03-02,Italy,Genoa,DC,16,82,38,36,83,80,86,57,49,8
+Rolando,Mandragora,,1997-06-29,Italy,Genoa,MC,15,32,74,36,65,82,84,82,70,10
+Diego,Laxalt,,1993-02-07,Uruguay,Genoa,ML,16,33,80,56,69,90,86,83,76,9
+Juraj,Kucka,,1987-02-26,Slovakia,Genoa,ML,17,30,84,56,68,82,83,78,66,6
+Diego,Perotti,,1988-07-26,Argentina,Genoa,ML,17,35,86,58,65,82,86,80,58,6
+Andrea,Bertolacci,,1991-01-11,Italy,Genoa,MC,16,31,83,59,70,82,90,88,83,9
+Iago,Falque,,1990-01-04,Spain,Genoa,MR,18,31,87,63,77,85,83,92,84,8
+Marco,Borriello,,1982-06-18,Italy,Genoa,AS,18,34,37,85,79,83,82,72,52,3
+Tommaso,Berni,,1983-03-06,Italy,Inter Milan,GK,79,46,38,30,47,53,57,46,33,3
+Nemanja,Vidić,,1981-10-21,Serbia,Inter Milan,DC,20,92,40,30,93,78,84,61,48,1
+Danilo,D'Ambrosio,,1988-09-09,Italy,Inter Milan,DR,17,86,43,30,78,83,82,59,47,7
+Juan Guilherme,Nunes Jesus,Juan Jesus,1991-06-10,Brazil,Inter Milan,DC,18,88,40,31,79,88,92,60,49,7
+Jonathan,Cícero Moreira,Jonathan,1986-02-27,Brazil,Inter Milan,DR,17,84,42,31,76,87,90,61,49,5
+Andrea,Ranocchia,,1988-02-16,Italy,Inter Milan,DC,17,86,37,34,95,79,82,55,46,7
+Felipe,Dias da Silva dal Belo,Felipe,1984-07-31,Brazil,Inter Milan,DC,17,85,38,34,79,83,80,60,47,5
+Gary,Medel,,1987-08-03,Chile,Inter Milan,MC,18,56,90,35,90,83,88,82,52,6
+Hugo,Campagnaro,,1980-06-27,Argentina,Inter Milan,DC,18,85,38,36,89,77,80,56,48,2
+Samir,Handanović,,1984-07-14,Slovenia,Inter Milan,GK,92,48,42,36,50,58,53,45,32,4
+Marco,Andreolli,,1986-06-10,Italy,Inter Milan,DC,17,87,37,37,83,80,91,58,49,6
+Juan Pablo,Carrizo,,1984-05-06,Argentina,Inter Milan,GK,82,46,40,37,50,57,53,46,33,4
+Yuto,Nagatomo,,1986-09-12,Japan,Inter Milan,DL,18,85,46,38,67,88,93,65,52,6
+Joel,Obi,,1991-05-22,Nigeria,Inter Milan,M,17,37,83,40,68,90,88,82,66,8
+Zdravko,Kuzmanović,,1987-09-22,Serbia,Inter Milan,MC,18,43,85,40,77,83,82,80,59,7
+Fredy,Guarín,,1986-06-30,Colombia,Inter Milan,MC,18,49,89,42,70,91,94,82,57,6
+Anderson,Hernanes de Carvalho Viana Lima,Hernanes,1985-05-29,Brazil,Inter Milan,MC,19,48,90,47,72,84,89,79,64,5
+Mateo,Kovačić,,1994-05-06,Croatia,Inter Milan,MC,17,33,90,54,73,86,83,88,74,9
+Xherdan,Shaqiri,,1991-10-10,Switzerland,Inter Milan,M,17,32,92,63,74,85,83,90,78,8
+George,Pușcaș,,1996-04-08,Romania,Inter Milan,AF,15,32,43,78,67,83,82,72,49,10
+Rodrigo Sebastián,Palacio Alcaide,Rodrigo Palacio,1982-02-05,Argentina,Inter Milan,AF,18,32,46,90,78,80,80,82,68,3
+Mauro,Icardi,,1993-02-19,Argentina,Inter Milan,AS,18,34,48,91,79,86,87,79,56,9
+Marco,Storari,,1977-01-07,Italy,Juventus,GK,84,50,43,30,48,51,46,42,38,1
+Angelo,Ogbonna,,1988-05-23,Italy,Juventus,DC,19,85,43,30,79,90,86,57,48,5
+Stephan,Lichtsteiner,,1984-01-16,Switzerland,Juventus,DR,19,88,44,30,88,81,85,58,47,4
+Andrea,Barzagli,,1981-05-08,Italy,Juventus,DC,18,85,41,31,83,80,82,59,49,2
+Gianluigi,Buffon,,1978-01-28,Italy,Juventus,GK,96,49,39,32,50,49,56,48,37,1
+Leonardo,Bonucci,,1987-05-01,Italy,Juventus,DC,18,87,39,32,90,78,83,58,48,6
+Rubens Fernando,Moedim ,Rubinho,1982-08-04,Brazil,Juventus,GK,81,47,41,32,43,49,52,46,38,1
+Patrice,Evra,,1981-05-15,France,Juventus,DL,19,91,48,32,87,90,86,58,46,2
+Luca,Marrone,,1990-03-28,Italy,Juventus,DC,18,83,48,32,82,83,82,56,48,6
+José Martín,Cáceres Silva,Martín Cáceres,1987-04-07,Uruguay,Juventus,D,18,90,40,33,85,80,83,57,48,6
+Giorgio,Chiellini,,1984-08-14,Italy,Juventus,DC,19,88,40,34,95,79,82,59,50,5
+Paolo,De Ceglie,,1986-09-17,Italy,Juventus,DL,18,50,84,37,76,84,90,82,50,5
+Kwadwo,Asamoah,,1988-12-09,Ghana,Juventus,ML,18,49,85,38,70,92,94,79,51,6
+Simone,Padoin,,1984-03-18,Italy,Juventus,M,18,32,86,38,77,81,83,78,53,4
+Stefano,Sturaro,,1993-03-09,Italy,Juventus,MC,17,48,83,43,80,84,86,72,49,9
+Claudio,Marchisio,,1986-01-19,Italy,Juventus,MC,19,47,87,44,82,80,88,56,47,5
+Kingsley,Coman,,1996-06-13,France,Juventus,M,17,31,83,45,68,92,80,84,59,10
+Arturo,Vidal,,1987-05-22,Chile,Juventus,MC,19,53,92,49,87,86,92,80,68,6
+Andrea,Pirlo,,1979-05-19,Italy,Juventus,MC,20,48,98,52,80,73,87,96,97,1
+Paul,Pogba,,1993-03-15,France,Juventus,MC,19,48,94,58,80,90,93,82,73,10
+Fernando,Llorente,,1985-02-26,Spain,Juventus,AS,18,32,38,90,92,77,82,79,54,4
+Álvaro,Morata,,1992-10-23,Spain,Juventus,AS,19,33,44,91,88,87,85,84,65,8
+Carlos Alberto,Martínez Tevez,Carlos Tevez,1984-02-05,Argentina,Juventus,AF,20,36,58,97,92,89,92,92,86,4
+Etrit,Berisha,,1989-03-10,Albania,Lazio,GK,83,46,39,30,47,57,49,45,34,6
+Abdoulay,Konko,,1984-03-09,France,Lazio,DR,18,82,39,30,70,88,92,62,52,4
+Lorik,Cana,,1983-07-27,Albania,Lazio,DC,18,84,46,32,82,80,82,59,50,3
+Dušan,Basta,,1984-08-18,Serbia,Lazio,DR,17,82,46,32,80,84,87,63,50,4
+Stefan,de Vrij,,1992-02-05,The Netherlands,Lazio,DC,17,86,38,33,92,83,82,62,50,8
+Luis Pedro,Cavanda,,1991-01-02,Angola,Lazio,DR,16,82,42,33,83,93,88,58,50,8
+Ogenyi,Onazi,,1992-12-25,Nigeria,Lazio,MC,16,52,84,33,70,87,83,82,58,9
+Edson,Braafheid,,1983-04-08,The Netherlands,Lazio,DL,17,84,36,33,78,90,84,58,49,3
+Federico,Marchetti,,1983-02-07,Italy,Lazio,GK,85,48,39,34,45,54,52,48,32,4
+Cristian,Ledesma,,1982-09-24,Italy,Lazio,MC,18,58,87,35,84,78,87,69,54,2
+Bruno Alexandre,Marques Pereirinha,Bruno Pereirinha,1988-03-02,Portugal,Lazio,DR,18,81,46,36,75,82,91,61,47,6
+Santiago,Gentiletti,,1985-01-09,Argentina,Lazio,DC,17,83,38,36,85,79,80,59,46,4
+Michaël,Ciani,,1984-04-06,France,Lazio,DC,18,82,38,37,77,85,88,60,48,4
+Diego,Novaretti,,1985-05-09,Argentina,Lazio,DC,17,82,39,37,79,83,80,58,52,5
+Ștefan,Radu,,1986-10-22,Romania,Lazio,DL,18,84,40,37,79,80,84,60,50,6
+Danilo,Cataldi,,1994-08-06,Italy,Lazio,MC,16,38,84,40,69,82,80,85,75,9
+Lucas,Biglia,,1986-01-30,Argentina,Lazio,MC,19,52,86,40,89,82,88,77,56,6
+Senad,Lulić,,1986-01-18,Bosnia,Lazio,ML,17,47,87,42,70,87,85,83,80,6
+Marco,Parola,,1985-01-25,Italy,Lazio,MC,18,39,86,43,75,82,84,85,73,5
+Keite,Baldé Diao,Keita,1995-03-08,Spain,Lazio,M,17,31,85,46,72,92,84,80,60,10
+Felipe Anderson,Pereira Gomes,Felipe Anderson,1993-04-15,Brazil,Lazio,M,17,35,88,47,70,84,82,91,84,9
+Ederson,Honorato Campos,Ederson,1986-01-13,Brazil,Lazio,MC,18,44,85,53,68,88,79,84,82,6
+Stefano,Mauri,,1980-01-08,Italy,Lazio,MC,18,33,85,56,68,80,82,88,85,1
+Antonio,Candreva,,1987-02-28,Italy,Lazio,MR,19,34,90,58,68,85,83,92,84,6
+Brayan,Perea,,1993-02-25,Colombia,Lazio,AS,16,33,40,83,77,90,82,78,50,9
+Filip,Đorđević,,1987-09-28,Serbia,Lazio,AS,18,32,37,85,85,80,91,78,65,7
+Miroslav,Klose,,1978-06-09,Germany,Lazio,AS,20,30,37,92,95,75,84,73,58,1
+Rafael,Cabral,Rafael,1990-05-20,Brazil,Napoli,GK,87,48,39,31,48,59,58,45,34,8
+Miguel,Britos,,1985-07-17,Uruguay,Napoli,DC,18,84,40,31,79,82,80,60,51,6
+Raúl,Albiol Tortajada,Raúl Albiol,1985-09-04,Spain,Napoli,DC,19,89,42,31,90,82,83,63,48,5
+Kalidou,Koulibaly,,1991-06-20,France,Napoli,DC,17,83,44,31,81,94,96,56,46,8
+Henrique Adriano,Buss,Henrique,1986-10-14,Brazil,Napoli,DC,18,86,46,31,85,81,88,60,48,5
+Juan Camilo,Zúñiga Mosquera,Camilo Zúñiga,1985-12-14,Colombia,Napoli,DR,17,85,47,31,80,90,92,60,46,5
+David,López Silva,David López,1989-10-09,Spain,Napoli,MC,18,48,86,31,79,85,87,80,63,6
+Bruno,Uvini Bortolança,Bruno Uvini,1991-06-03,Brazil,Napoli,DC,16,80,38,32,76,83,82,58,48,8
+Ivan,Strinić,,1987-07-17,Croatia,Napoli,DL,18,84,42,32,81,83,84,57,45,6
+Walter,Gargano,,1984-07-23,Uruguay,Napoli,MC,18,58,87,33,82,80,85,68,47,5
+Roberto,Colombo,,1975-08-24,Italy,Napoli,GK,82,47,41,34,47,50,52,45,32,1
+Gökhan,Inler,,1984-06-27,Switzerland,Napoli,MC,17,65,88,34,89,90,88,76,48,5
+Giandomenico,Mesto,,1982-05-25,Italy,Napoli,DR,17,82,38,35,82,77,85,57,48,3
+Mariano Gonzalo,Andújar,Mariano Andújar,1983-07-30,Argentina,Napoli,GK,86,46,38,35,47,57,53,43,31,3
+Christian,Maggio,,1982-02-11,Italy,Napoli,DR,18,87,42,36,90,81,92,58,47,2
+Faouzi,Ghoulam,,1991-02-01,Algeria,Napoli,DL,16,82,47,38,67,88,94,60,48,8
+Jorge Luiz,Frello Filho,Jorginho,1991-12-20,Brazil,Napoli,MC,17,44,84,40,80,85,90,84,66,8
+Eduardo,Vargas,,1989-11-20,Chile,Napoli,MR,18,32,84,58,70,85,88,82,64,7
+Dries,Mertens,,1987-05-06,Belgium,Napoli,M,19,30,93,58,76,90,84,89,80,6
+Jonathan,de Guzmán,,1987-09-13,The Netherlands,Napoli,MC,18,33,87,60,72,92,86,83,81,6
+Lorenzo,Insigne,,1991-06-04,Italy,Napoli,ML,18,33,88,62,72,87,82,90,82,8
+Marek,Hamšík,,1987-07-27,Slovakia,Napoli,MC,18,33,92,63,82,86,83,91,80,6
+Duván Esteban,Zapata Banguera,Duván Zapata,1991-04-01,Colombia,Napoli,AF,16,32,43,82,77,87,82,66,52,8
+José María,Callejón Bueno,José Callejón,1987-02-11,Spain,Napoli,AF,18,35,43,88,80,85,85,79,54,6
+Gonzalo Gerardo,Higuaín Zacarías,Gonzalo Higuaín,1987-12-10,Argentina,Napoli,AS,20,31,48,95,82,88,83,88,75,6
+Andrea,Fulignati,,1994-10-31,Italy,Palermo,GK,80,47,38,30,46,52,60,48,35,10
+Achraf,Lazaar,,1992-01-22,Morocco,Palermo,DL,16,80,42,30,73,84,82,57,48,9
+Enzo,Maresca,,1980-02-10,Italy,Palermo,MC,19,62,90,31,78,78,83,91,84,2
+Robin,Quaison,,1993-10-09,Sweden,Palermo,MC,17,42,84,40,68,92,86,80,60,9
+Accursio,Bentivegna,,1996-06-21,Italy,Palermo,MR,15,32,74,42,67,84,79,79,52,10
+Édgar,Barreto,,1984-07-15,Paraguay,Palermo,MC,17,52,84,42,78,80,84,77,47,5
+Ivaylo,Chochev,,1993-02-18,Bulgaria,Palermo,MC,16,47,83,46,75,82,78,87,77,9
+Andrea,Belotti,,1993-12-20,Italy,Palermo,AF,16,30,41,81,73,78,83,82,52,9
+Stefano,Sorrentino,,1979-03-28,Italy,Palermo,GK,84,45,39,35,49,59,56,46,38,1
+Roberto,Vitiello,,1983-05-08,Italy,Palermo,DR,18,82,37,36,80,80,87,59,48,2
+Claudio,Terzi,,1984-06-19,Italy,Palermo,DC,17,81,36,35,82,78,84,58,49,3
+Luca,Rigoni,,1984-12-07,Italy,Palermo,MC,19,56,84,50,80,82,87,74,52,4
+Siniša,Anđelković,,1986-02-13,Slovenia,Palermo,DC,18,83,42,37,85,80,83,59,48,5
+Francesco,Della Rocca,,1987-09-14,Italy,Palermo,MC,17,42,79,36,77,84,79,73,54,6
+Giancarlo,González,,1988-02-08,Costa Rica,Palermo,DC,17,80,38,37,77,80,85,59,48,6
+Mato,Jajalo,,1988-05-25,Croatia,Palermo,MC,16,43,81,47,76,82,83,75,57,6
+Samir,Ujkani,,1988-07-05,Kosovo,Palermo,GK,80,47,42,34,48,52,50,44,35,6
+Franco,Vázquez,,1989-02-22,Italy,Palermo,MC,18,43,85,50,75,82,86,85,83,6
+Francesco,Bolzoni,,1989-05-07,Italy,Palermo,MC,17,45,81,33,77,82,89,76,52,6
+Michel,Morganella,,1989-05-17,Switzerland,Palermo,DR,16,81,47,30,73,80,83,62,49,7
+João Pedro,Pereira Silva,João Silva,1990-05-21,Portugal,Palermo,AS,17,33,36,77,82,79,78,64,52,7
+Simon,Makienok,,1990-11-21,Denmark,Palermo,AS,16,32,36,78,96,77,85,67,55,8
+Fabio,Daprelà,,1991-02-19,Switzerland,Palermo,DL,17,82,37,35,70,85,83,66,53,8
+Milan,Milanović,,1991-03-31,Serbia,Palermo,DC,18,79,36,35,79,82,78,54,43,8
+Massimo,Gobbi,,1980-10-31,Italy,Parma,DL,17,84,47,31,83,80,85,60,49,2
+Antonio,Mirante,,1983-07-08,Italy,Parma,GK,84,47,39,31,48,54,50,44,32,2
+McDonald,Mariga Wanyama,McDonald Mariga,1987-04-04,Kenya,Parma,MC,18,50,82,31,80,92,90,58,50,5
+Pedro Filipe,Teodósio Mendes,Pedro Mendes,1990-10-01,Portugal,Parma,DC,15,81,43,31,82,88,79,57,48,7
+Pavol,Bajza,,1991-09-04,Slovakia,Parma,GK,79,43,38,31,49,53,57,46,34,8
+José Agustín,Mauri,José Mauri,1996-05-16,Italy,Parma,MC,16,49,81,32,72,84,82,86,66,9
+Lucas,Vieira de Souza,Lucas Souza,1990-07-04,Brazil,Parma,MC,17,50,79,32,83,79,82,62,49,7
+Alessandro,Iacobucci,,1991-06-03,Italy,Parma,GK,79,44,38,32,46,52,49,47,34,8
+Mattia,Cassani,,1983-08-26,Italy,Parma,DR,18,84,49,34,73,84,80,61,51,3
+Andrea,Costa,,1986-02-01,Italy,Parma,DL,17,81,38,35,82,80,87,55,52,4
+Fabiano,Santacroce,,1986-08-24,Italy,Parma,DC,18,81,37,35,82,93,87,54,48,4
+Giuseppe,Prestia,,1993-11-13,Italy,Parma,DC,15,75,38,36,82,79,85,56,49,8
+Alessandro,Lucarelli,,1977-07-22,Italy,Parma,DC,18,84,37,36,90,76,82,58,49,1
+Zouhair,Feddal,,1989-01-01,Morocco,Parma,DC,18,82,38,38,79,82,78,60,48,6
+Soufiane,Bidaoui,,1990-04-20,Morocco,Parma,ML,16,33,84,40,73,87,82,83,76,8
+Daniele,Galloppa,,1985-05-15,Italy,Parma,MC,18,30,81,40,68,84,82,79,83,4
+Abdelkader,Ghezzal,,1984-12-05,Algeria,Parma,M,18,31,82,42,70,80,83,80,79,4
+Filip,Janković,,1995-01-17,Serbia,Parma,MC,16,32,79,43,68,84,85,83,79,10
+Cristóbal,Jorquera,,1988-08-04,Chile,Parma,AF,19,32,83,62,77,86,80,88,80,6
+Alberto,Cerri,,1996-04-16,Italy,Parma,AF,15,33,38,77,68,80,82,70,50,10
+Nicola,Pozzi,,1986-06-30,Italy,Parma,AF,18,32,39,80,83,78,82,70,66,4
+Massimo,Coda,,1988-11-10,Italy,Parma,AF,18,31,40,80,82,77,84,65,60,6
+Raffaele,Palladino,,1984-04-17,Italy,Parma,AF,17,33,57,83,80,82,78,72,58,3
+Daniele,De Rossi,,1983-07-24,Italy,Roma,MC,20,58,90,30,90,82,92,70,52,3
+Bogdan,Lobonț,,1978-01-18,Romania,Roma,GK,80,45,37,31,46,55,57,45,36,1
+Leandro,Castán da Silva,Leandro Castán,1986-11-05,Brazil,Roma,DC,18,84,39,32,84,80,90,56,46,5
+Łukasz,Skorupski,,1991-05-05,Poland,Roma,GK,83,47,39,32,47,55,58,43,30,8
+Vasilis,Torosidis,,1985-06-10,Greece,Roma,DR,19,86,40,32,80,84,88,61,52,4
+Ashley,Cole,,1980-12-20,England,Roma,DL,19,90,43,32,85,90,83,68,50,2
+Federico,Balzaretti,,1981-12-06,Italy,Roma,DL,18,81,45,32,72,80,88,57,49,2
+Morgan,De Sanctis,,1977-03-26,Italy,Roma,GK,87,47,40,33,47,52,58,46,34,1
+Gianluca,Curci,,1985-07-12,Italy,Roma,GK,82,47,40,33,47,50,58,46,34,5
+Mapou,Yanga-Mbiwa,,1989-05-15,France,Roma,DC,18,86,44,33,82,92,90,63,45,7
+Konstantinos,Manolas,,1991-06-14,Greece,Roma,DC,18,88,38,34,87,82,91,60,48,8
+Maicon Douglas,Sisenando,Maicon,1981-07-26,Brazil,Roma,DR,20,92,46,34,83,92,85,72,48,2
+Kevin,Strootman,,1990-02-13,The Netherlands,Roma,MC,19,53,91,35,80,84,88,83,58,8
+José Lloyd,Holebas,José Holebas,1984-06-27,Greece,Roma,DL,18,86,38,36,83,87,80,62,47,4
+Seydou,Keita,,1980-01-16,Mali,Roma,MC,19,66,89,40,88,83,92,71,47,1
+Miralem,Pjanić,,1990-04-02,Bosnia,Roma,MC,18,38,88,48,78,83,86,81,66,7
+Daniele,Verde,,1996-06-20,Italy,Roma,MR,16,30,83,49,69,83,80,82,67,10
+Radja,Nainggolan,,1988-05-04,Belgium,Roma,MC,17,45,86,52,68,80,92,77,54,6
+Alessandro,Florenzi,,1991-03-11,Italy,Roma,MR,18,44,87,52,74,86,84,87,67,8
+Adem,Ljajić,,1991-09-29,Serbia,Roma,ML,17,34,86,58,72,87,82,89,78,9
+Juan,Iturbe,,1993-06-04,Argentina,Roma,MR,18,33,91,62,75,87,83,88,79,8
+Antonio,Sanabria,,1996-03-04,Paraguay,Roma,AS,16,32,39,84,75,85,80,72,49,10
+Gervais,Yao Kouassi,Gervinho,1987-05-27,Ivory Coast,Roma,AF,17,32,47,86,73,93,87,78,53,6
+Seydou,Doumbia,,1987-12-31,Ivory Coast,Roma,AF,19,32,55,87,78,94,90,79,50,6
+Francesco,Totti,,1976-09-27,Italy,Roma,AF,19,33,70,93,78,72,80,95,93,1
+Pedro,Obiang,,1992-03-27,Spain,Sampdoria,MC,16,47,81,31,75,92,90,78,50,8
+Alberto,Frison,,1988-01-22,Italy,Sampdoria,GK,86,49,42,31,47,55,59,48,34,7
+Marco,Marchionni,,1980-07-22,Italy,Sampdoria,MC,19,53,89,32,76,76,84,82,68,2
+Angelo,Palombo,,1981-09-25,Italy,Sampdoria,MC,18,58,87,32,86,78,82,77,59,2
+Ezequiel Matías,Muñoz,Ezequiel Muñoz,1990-10-08,Argentina,Sampdoria,DC,17,83,37,32,82,79,87,57,48,7
+Samuele,Massolo,,1996-05-04,Italy,Sampdoria,GK,79,46,39,34,47,52,56,47,32,10
+Sergio,Romero,,1987-02-22,Argentina,Sampdoria,GK,85,48,40,34,44,57,60,46,37,6
+Vasco,Regini,,1990-09-09,Italy,Sampdoria,DL,18,84,38,34,70,85,82,60,52,7
+Lorenzo,De Silvestri,,1988-05-23,Italy,Sampdoria,DR,17,84,37,36,80,82,88,58,49,7
+Fabrizio,Cacciatore,,1986-10-08,Italy,Sampdoria,D,18,84,38,37,88,76,80,60,52,5
+Djamel,Mesbah,,1984-10-09,Algeria,Sampdoria,DL,18,83,47,38,73,83,94,68,49,3
+Luca,Rizzo,,1992-02-24,Italy,Sampdoria,M,17,30,80,38,66,82,83,76,72,8
+Paweł,Wszołek,,1992-04-30,Poland,Sampdoria,M,16,30,80,39,68,85,81,85,78,8
+Joaquín,Correa,Joaquín Correa,1994-08-13,Argentina,Sampdoria,MC,17,32,83,45,68,83,86,82,77,9
+Alessandro,De Vitis,,1992-02-15,Italy,Sampdoria,MC,17,44,84,47,70,83,85,79,75,9
+Roberto,Soriano,,1991-02-08,Italy,Sampdoria,MC,17,35,88,52,68,84,80,86,57,8
+Éder,Citadin Martins,Éder,1986-11-15,Italy,Sampdoria,ML,18,32,87,62,69,88,81,90,82,6
+Gonzalo,Bergessio,,1984-07-20,Argentina,Sampdoria,AF,17,32,37,82,82,80,85,75,52,3
+Stefano,Okaka,,1989-08-09,Italy,Sampdoria,AF,18,33,40,85,78,92,88,77,58,7
+Manolo,Gabbiadini,,1991-11-26,Italy,Sampdoria,AF,18,32,48,88,83,83,85,79,52,8
+Raman,Chibsah,,1993-03-10,Ghana,Sassuolo,MC,16,47,82,33,68,80,85,75,54,9
+Matteo,Brighi,,1981-02-14,Italy,Sassuolo,MC,18,53,86,33,75,80,83,90,83,2
+Paolo,Cannavaro,,1981-06-26,Italy,Sassuolo,DC,18,85,39,36,89,79,84,60,50,2
+Paolo,Bianco,,1977-08-20,Italy,Sassuolo,DC,17,80,36,34,79,76,75,59,48,2
+Ciro,Polito,,1979-04-12,Italy,Sassuolo,GK,75,43,37,32,47,50,49,45,30,1
+Alberto,Pomini,,1981-03-17,Italy,Sassuolo,GK,79,47,40,37,49,55,58,46,35,3
+Gianluca,Pegolo,,1981-03-25,Italy,Sassuolo,GK,82,47,36,34,48,59,52,45,32,2
+Sergio,Floccari,,1981-11-12,Italy,Sassuolo,AS,18,32,36,80,77,82,74,69,56,2
+Davide,Biondini,,1983-01-24,Italy,Sassuolo,MC,18,46,82,40,87,79,87,72,55,3
+Antonio,Floro Flores,,1983-06-18,Italy,Sassuolo,AS,17,31,37,81,90,74,79,67,56,3
+Federico,Peluso,,1984-01-20,Italy,Sassuolo,DL,18,82,50,37,76,81,77,61,48,4
+Francesco,Magnanelli,,1984-11-12,Italy,Sassuolo,MC,19,58,82,40,82,80,89,82,73,5
+Marcello,Gazzola,,1985-04-03,Italy,Sassuolo,DR,18,80,47,35,79,79,83,58,54,6
+Simone,Missiroli,,1986-05-23,Italy,Sassuolo,MC,17,34,84,52,77,82,88,84,80,6
+Andrea,Consigli,,1987-01-27,Italy,Sassuolo,GK,86,48,40,31,47,54,59,46,37,6
+Emanuele,Terranova,,1987-04-14,Italy,Sassuolo,DC,17,79,36,32,79,80,76,54,47,6
+Francesco,Acerbi,,1988-02-10,Italy,Sassuolo,DC,17,83,40,37,90,78,83,58,50,7
+Alessandro,Longhi,,1989-06-25,Italy,Sassuolo,DL,18,80,43,32,75,80,82,58,47,7
+Simone,Zaza,,1991-06-25,Italy,Sassuolo,AS,16,31,39,81,75,85,79,71,59,8
+Nicola,Sansone,,1991-09-10,Italy,Sassuolo,M,17,35,83,44,68,83,80,85,78,9
+Šime,Vrsaljko,,1992-01-10,Croatia,Sassuolo,DR,17,80,49,31,80,89,85,63,50,9
+Luca,Antei,,1992-04-19,Italy,Sassuolo,DC,16,78,35,33,77,82,80,57,47,9
+Marco,Benassi,,1994-09-08,Italy,Torino,MC,16,47,79,30,68,82,85,79,58,9
+Migjen,Basha,,1987-01-05,Albania,Torino,MC,16,48,80,30,77,80,84,76,55,6
+Luca,Castellazzi,,1975-07-19,Italy,Torino,GK,82,47,39,32,45,54,50,45,36,1
+Cristian,Molinaro,,1983-07-30,Italy,Torino,DL,17,83,50,32,80,80,92,60,49,4
+Matteo,Darmian,,1989-12-02,Italy,Torino,DR,17,84,47,33,78,86,90,60,51,7
+Pontus,Jansson,,1991-02-13,Sweden,Torino,DC,17,82,40,34,84,80,83,57,49,8
+Cesare,Bovo,,1983-01-14,Italy,Torino,DC,18,84,38,34,84,79,80,58,46,3
+Daniele,Padelli,,1985-10-25,Italy,Torino,GK,86,47,39,34,47,53,56,45,32,5
+Emiliano,Moretti,,1981-06-11,Italy,Torino,DC,18,84,37,35,86,77,79,59,47,2
+Gastón Alexis,Silva Perdomo,Gastón Silva,1994-03-05,Uruguay,Torino,DL,16,80,38,36,73,82,83,55,47,9
+Bruno,da Silva Peres,Bruno Peres,1990-03-01,Brazil,Torino,DR,18,85,45,36,75,87,82,62,48,7
+Salvatore,Masiello,,1982-01-31,Italy,Torino,DL,17,79,46,37,80,82,77,60,52,2
+Nikola,Maksimović,,1991-11-25,Serbia,Torino,D,16,80,38,38,79,84,89,58,48,9
+Giuseppe,Vives,,1980-07-14,Italy,Torino,MC,18,60,85,40,80,83,87,73,50,2
+Kamil,Glik,,1988-02-03,Poland,Torino,DC,17,87,42,40,83,82,86,60,47,6
+Alexander,Farnerud,,1984-05-01,Sweden,Torino,MC,18,46,86,42,82,79,88,77,48,4
+Alessandro,Gazzi,,1983-01-28,Italy,Torino,MC,17,40,82,42,76,82,80,87,82,3
+Paulo Vitor,de Souza Barreto,Barreto,1985-07-12,Brazil,Torino,AF,16,32,46,81,78,82,82,80,68,5
+Josef,Martínez,,1993-05-19,Venezuela,Torino,AF,16,31,42,82,68,90,88,77,52,9
+Maximilano,Gastón López,Maxi López,1984-04-03,Argentina,Torino,AS,19,33,40,86,76,83,79,82,51,4
+Amauri,Carvalho de Oliveira,Amauri,1980-06-03,Italy,Torino,AS,19,37,49,86,92,76,83,75,59,2
+Fabio,Quagliarella,,1983-01-31,Italy,Torino,AF,18,34,40,88,88,78,83,79,55,3
+Allan,Marques Loureiro,Allan,1991-01-08,Brazil,Udinese,MC,16,48,82,30,79,84,82,82,58,8
+Igor,Bubnjić,,1992-07-17,Croatia,Udinese,DC,16,80,40,31,90,79,82,57,50,9
+Gabriel Moisés,Antunes da Silva,Gabriel Silva,1991-05-13,Brazil,Udinese,ML,17,47,83,31,69,88,81,90,85,8
+Silvan,Widmer,,1993-03-05,Switzerland,Udinese,DR,16,79,45,32,78,79,87,57,48,9
+Simone,Scuffet,,1996-05-31,Italy,Udinese,GK,82,47,40,34,48,53,58,47,36,9
+Andrea,Coda,,1985-04-25,Italy,Udinese,DC,17,82,40,35,82,77,81,58,50,4
+Emmanuel,Agyemang-Badu,Emmanuel Badu,1990-12-02,Ghana,Udinese,MC,17,62,86,37,82,84,88,75,52,7
+Alexis,Zapata,,1995-05-10,Colombia,Udinese,ML,15,29,76,38,64,88,79,78,56,9
+Guilherme,dos Santos Torres,Guilherme,1991-04-05,Brazil,Udinese,MC,17,55,86,42,72,83,82,82,52,8
+Melker,Hallberg,,1995-10-20,Sweden,Udinese,MC,15,31,77,43,66,82,78,83,58,10
+Bruno Miguel,Borges Fernandes,Bruno Fernandes,1994-09-08,Portugal,Udinese,M,18,33,85,49,70,85,83,90,84,10
+Rodrigo,Aguirre,,1994-10-01,Uruguay,Udinese,AF,16,32,40,79,75,87,82,80,50,10
+Luis Fernando,Muriel Fruto,Luis Muriel,1991-04-16,Colombia,Udinese,AF,18,32,58,86,79,82,86,79,70,8
+Antonio,Di Natale,,1977-10-13,Italy,Udinese,AF,19,33,47,90,88,80,82,90,78,1
+Maurizio,Domizzi,,1980-06-28,Italy,Udinese,DC,17,82,38,32,83,86,78,56,48,2
+Giampiero,Pinzi,,1981-03-11,Italy,Udinese,MC,17,42,84,49,73,80,90,67,52,3
+Giovanni,Pasquale,,1982-01-05,Italy,Udinese,ML,16,47,83,32,75,82,80,83,77,3
+Alexandre,Geijo Pazos,Álex Geijo,1982-09-05,Spain,Udinese,AS,17,32,36,79,82,79,85,70,52,3
+Cyril,Théréau,,1983-04-24,France,Udinese,AS,19,35,60,84,80,88,78,67,50,4
+Danilo,Larangeira,Danilo,1984-05-10,Brazil,Udinese,DC,18,85,43,37,84,80,83,61,50,5
+Orestis,Karnezis,,1985-07-11,Greece,Udinese,GK,83,46,41,34,48,56,53,45,32,5
+Panagiotis,Kone,,1987-07-26,Greece,Udinese,MC,16,31,79,52,74,83,82,78,53,6
+Thomas,Heurtaux,,1988-07-03,France,Udinese,DC,17,84,40,36,88,78,78,57,46,7
+Ivan,Martić,,1990-10-02,Bosnia,Verona,DR,17,84,47,30,77,82,91,58,50,7
+Rafael,Márquez Álvarez,Rafael Márquez,1979-02-13,Mexico,Verona,DC,20,90,48,31,92,82,95,63,51,2
+Pierluigi,Gollini,,1995-03-18,Italy,Verona,GK,81,45,38,32,50,56,60,45,32,10
+Jacopo,Sala,,1991-12-05,Italy,Verona,MC,16,47,80,34,73,83,90,77,48,9
+Luca,Checchin,,1997-05-03,Italy,Verona,MC,15,31,77,35,66,84,81,78,52,10
+Artur,Ioniță,,1990-08-17,Moldova,Verona,MC,16,43,82,39,73,82,86,69,51,7
+Mohamed,Fares,,1996-02-15,Algeria,Verona,AF,16,30,38,76,72,80,78,68,46,9
+Pierluigi,Cappelluzzo,,1996-06-09,Italy,Verona,AF,16,32,38,79,70,82,80,67,46,10
+Javier Pedro,Saviola Fernández,Javier Saviola,1981-12-11,Argentina,Verona,AF,18,33,47,89,77,82,80,86,68,3
+Luca,Toni,,1977-05-26,Italy,Verona,AS,19,34,46,91,86,79,82,91,81,1
+Alessandro,Agostini,,1979-07-23,Italy,Verona,DL,18,81,36,35,74,78,88,60,55,1
+Vangelis,Moras,,1981-08-26,Greece,Verona,DC,18,84,37,35,86,77,82,57,49,2
+Francesco,Benussi,,1981-10-15,Italy,Verona,GK,82,45,37,33,48,48,52,46,33,2
+Rafael,de Andrade Bittencourt Pinheiro,Rafael,1982-03-03,Brazil,Verona,GK,82,48,39,33,47,53,58,46,37,2
+Rafael,Marques,,1983-09-21,Brazil,Verona,DC,18,80,34,33,80,78,84,60,52,4
+Boško,Janković,,1984-03-01,Serbia,Verona,M,17,32,82,40,69,80,76,73,49,5
+Guillermo Daniel,Rodríguez Pérez,Guillermo Rodríguez,1984-03-21,Uruguay,Verona,DC,18,79,37,33,83,75,79,57,48,5
+Emil,Hallfreðsson,,1984-06-29,Iceland,Verona,MC,17,31,81,48,72,80,86,77,58,5
+Juan Ignacio,Gomez Taleb,Juan Gómez,1985-05-20,Argentina,Verona,M,18,32,84,58,77,84,81,82,75,5
+Leandro,Greco,,1986-07-19,Italy,Verona,MC,18,41,80,38,82,77,83,68,49,5
+Lazaros,Christodoulopoulos,,1986-12-19,Greece,Verona,MC,19,33,82,50,78,85,86,78,73,6
