@@ -16,11 +16,12 @@ cursor.execute("CREATE TABLE IF NOT EXISTS nation (id INTEGER PRIMARY KEY, name,
 
 cursor.execute("CREATE TABLE IF NOT EXISTS league (id INTEGER PRIMARY KEY NOT NULL, name TEXT)")
 
-cursor.execute("CREATE TABLE IF NOT EXISTS leagueattr (id INTEGER PRIMARY KEY AUTOINCREMENT, league INTEGER NOT NULL, year INTEGER NOT NULL, FOREIGN KEY(league) REFERENCES league(id), FOREIGN KEY(year) REFERENCES year(year))")
+#NOT IN USE
+#cursor.execute("CREATE TABLE IF NOT EXISTS leagueattr (id INTEGER PRIMARY KEY AUTOINCREMENT, league INTEGER NOT NULL, year INTEGER NOT NULL, FOREIGN KEY(league) REFERENCES league(id), FOREIGN KEY(year) REFERENCES year(year))")
 
 cursor.execute("CREATE TABLE IF NOT EXISTS stadium (id INTEGER PRIMARY KEY NOT NULL, name TEXT)")
 
-cursor.execute("CREATE TABLE IF NOT EXISTS stadiumattr (id INTEGER PRIMARY KEY AUTOINCREMENT, stadium INTEGER NOT NULL, year INTEGER NOT NULL, north INTEGER, east INTEGER, south INTEGER, west INTEGER, northeast INTEGER, northwest INTEGER, southeast INTEGER, southwest INTEGER, northbox INTEGER, eastbox INTEGER, southbox INTEGER, westbox INTEGER, northroof INTEGER, eastroof INTEGER, southroof INTEGER, westroof INTEGER, northeastroof INTEGER, northwestroof INTEGER, southeastroof INTEGER, southwestroof INTEGER, northseating INTEGER, eastseating INTEGER, southseating INTEGER, westseating INTEGER, northeastseating INTEGER, northwestseating INTEGER, southeastseating INTEGER, southwestseating INTEGER, stall INTEGER, programme INTEGER, smallshop INTEGER, largeshop INTEGER, bar INTEGER, burgerbar INTEGER, cafe INTEGER, restaurant INTEGER, FOREIGN KEY(stadium) REFERENCES stadium(id))")
+cursor.execute("CREATE TABLE IF NOT EXISTS stadiumattr (id INTEGER PRIMARY KEY AUTOINCREMENT, stadium INTEGER NOT NULL, year INTEGER NOT NULL, north INTEGER, east INTEGER, south INTEGER, west INTEGER, northeast INTEGER, northwest INTEGER, southeast INTEGER, southwest INTEGER, northbox INTEGER, eastbox INTEGER, southbox INTEGER, westbox INTEGER, northroof INTEGER, eastroof INTEGER, southroof INTEGER, westroof INTEGER, northeastroof INTEGER, northwestroof INTEGER, southeastroof INTEGER, southwestroof INTEGER, northseating INTEGER, eastseating INTEGER, southseating INTEGER, westseating INTEGER, northeastseating INTEGER, northwestseating INTEGER, southeastseating INTEGER, southwestseating INTEGER, stall INTEGER, programme INTEGER, smallshop INTEGER, largeshop INTEGER, bar INTEGER, burgerbar INTEGER, cafe INTEGER, restaurant INTEGER, FOREIGN KEY(stadium) REFERENCES stadium(id), FOREIGN KEY(year) REFERENCES year(year))")
 
 cursor.execute("CREATE TABLE IF NOT EXISTS club (id INTEGER PRIMARY KEY NOT NULL, name, nickname)")
 
@@ -40,8 +41,15 @@ cursor.execute("CREATE TABLE IF NOT EXISTS merchandise (name TEXT, cost INTEGER,
 
 cursor.execute("CREATE TABLE IF NOT EXISTS catering (name TEXT, cost INTEGER, multiplier INTEGER)")
 
-cursor.execute("CREATE TABLE IF NOT EXISTS referee (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, league INTEGER, year INTEGER NOT NULL, FOREIGN KEY(year) REFERENCES year(year), FOREIGN KEY(league) REFERENCES league(id))")
+cursor.execute("CREATE TABLE IF NOT EXISTS referee (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT)")
 
+cursor.execute("CREATE TABLE IF NOT EXISTS refereeattr (id INTEGER PRIMARY KEY AUTOINCREMENT, referee INTEGER NOT NULL, year INTEGER NOT NULL, league INTEGER, FOREIGN KEY(referee) REFERENCES referee(id), FOREIGN KEY(year) REFERENCES year(year), FOREIGN KEY(league) REFERENCES league(id))")
+
+
+# Year
+print("Year")
+for year in (2001, 2014, 2015):
+    cursor.execute("INSERT INTO year VALUES (?)", (year,))
 
 # Staff
 print("Staff")
@@ -53,11 +61,6 @@ data = data.split("\n")
 for item in data:
     if item != "":
         cursor.execute("INSERT INTO staff VALUES (?)", (item,))
-
-# Year
-print("Year")
-for year in (2001, 2014, 2015):
-    cursor.execute("INSERT INTO year VALUES (?)", (year,))
 
 # Injury
 print("Injury")
@@ -83,7 +86,7 @@ for item in data:
     line = item.split(",")
 
     if line != [""]:
-        cursor.execute("INSERT INTO suspension VALUES (?, ?, ?, ?)", (line))
+        cursor.execute("INSERT INTO suspension VALUES (null, ?, ?, ?)", (line))
 
 # Nation
 print("Nation")
@@ -111,6 +114,7 @@ for item in data:
     if line != [""]:
         cursor.execute("INSERT INTO league VALUES (?, ?)", (line))
 
+'''
 print("LeagueAttr")
 fp = open("leagueattr.csv")
 
@@ -122,6 +126,7 @@ for item in data:
 
     if line != [""]:
         cursor.execute("INSERT INTO leagueattr VALUES (?, ?, ?)", (line))
+'''
 
 # Stadium
 print("Stadium")
@@ -146,7 +151,7 @@ for item in data:
     line = item.split(",")
 
     if line != [""]:
-        cursor.execute("INSERT INTO stadiumattr VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", (line))
+        cursor.execute("INSERT INTO stadiumattr VALUES (null, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", (line))
 
 # Club
 print("Club")
@@ -171,7 +176,7 @@ for item in data:
     line = item.split(",")
 
     if line != [""]:
-        cursor.execute("INSERT INTO clubattr VALUES (?, ?, ?, ?, ?, ?, ?, ?)", (line))
+        cursor.execute("INSERT INTO clubattr VALUES (null, ?, ?, ?, ?, ?, ?, ?)", (line))
 
 # Player
 print("Player")
@@ -196,7 +201,7 @@ for item in data:
     line = item.split(",")
 
     if line != [""]:
-        cursor.execute("INSERT INTO playerattr VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", (line))
+        cursor.execute("INSERT INTO playerattr VALUES (null, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", (line))
 
 # Company
 print("Company")
@@ -209,7 +214,8 @@ for item in data:
     line = item.split(",")
 
     if line != [""]:
-        cursor.execute("INSERT INTO company VALUES (?)", (line))
+        line = line[0]
+        cursor.execute("INSERT INTO company VALUES (?)", (line,))
 
 # Buildings
 print("Buildings")
@@ -261,7 +267,19 @@ for item in data:
     line = item.split(",")
 
     if line != [""]:
-        cursor.execute("INSERT INTO referee VALUES (null, ?, ?, ?)", (line))
+        cursor.execute("INSERT INTO referee VALUES (?, ?)", (line))
+
+print("RefereeAttr")
+fp = open("refereeattr.csv")
+
+data = fp.read()
+data = data.split("\n")
+
+for item in data:
+    line = item.split(",")
+
+    if line != [""]:
+        cursor.execute("INSERT INTO refereeattr VALUES (null, ?, ?, ?)", (line))
 
 connection.commit()
 connection.close()
